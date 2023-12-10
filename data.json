@@ -1,0 +1,22 @@
+{
+  "students": [
+    {
+      "userName": "Islomjon",
+      "age": "16",
+      "photo": "https://www.varietyinsight.com/images/honoree/Dwayne_Johnson.png",
+      "id": 1
+    },
+    {
+      "userName": "Islomjon",
+      "age": "11",
+      "photo": "https://www.varietyinsight.com/images/honoree/Dwayne_Johnson.png",
+      "id": 2
+    },
+    {
+      "userName": "",
+      "age": "",
+      "photo": "",
+      "id": 3
+    }
+  ]
+}
